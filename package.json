@@ -1,7 +1,7 @@
 {
   "name": "jest-another-rpg",
   "jest": {
-     "verbose": true
+    "verbose": true
   },
   "version": "1.0.0",
   "description": "",
@@ -21,5 +21,8 @@
   "homepage": "https://github.com/bevans0708/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.0.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1"
   }
 }
